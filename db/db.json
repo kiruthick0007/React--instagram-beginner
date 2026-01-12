@@ -1,0 +1,134 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profilePicture": "https://i.pravatar.cc/150?img=1"
+      },
+      "image": "https://picsum.photos/id/1011/600/600",
+      "caption": "Sunsets and good vibes 🌅",
+      "likes": 245,
+      "comments": [
+        {
+          "user": "emma_w",
+          "comment": "Amazing shot 🔥"
+        },
+        {
+          "user": "alex_99",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-01-15T18:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "sarah_k",
+        "profilePicture": "https://i.pravatar.cc/150?img=5"
+      },
+      "image": "https://picsum.photos/id/1025/600/600",
+      "caption": "Weekend mood 🐶💙",
+      "likes": 512,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "So cute 😍"
+        },
+        {
+          "user": "mike_t",
+          "comment": "Adorable!"
+        }
+      ],
+      "timestamp": "2025-01-16T09:15:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "rahul_it",
+        "profilePicture": "https://i.pravatar.cc/150?img=12"
+      },
+      "image": "https://picsum.photos/id/1005/600/600",
+      "caption": "Coding + Coffee ☕💻",
+      "likes": 389,
+      "comments": [
+        {
+          "user": "sarah_k",
+          "comment": "Relatable 😄"
+        },
+        {
+          "user": "dev_guy",
+          "comment": "Best combo!"
+        }
+      ],
+      "timestamp": "2025-01-17T14:45:00Z"
+    }
+  ],
+  "profile": [
+    {
+      "id": "103",
+      "username": "rahul_it",
+      "profilePicture": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "102",
+      "username": "sarah_k",
+      "profilePicture": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "101",
+      "username": "john_doe",
+      "profilePicture": "https://i.pravatar.cc/150?img=1"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "104",
+      "username": "kiran_k",
+      "profilePicture": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+      "id": "105",
+      "username": "alex_99",
+      "profilePicture": "https://i.pravatar.cc/150?img=30"
+    },
+    {
+      "id": "106",
+      "username": "emma_w",
+      "profilePicture": "https://i.pravatar.cc/150?img=20"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profilePicture": "https://i.pravatar.cc/150?img=1"
+      },
+      "image": "/src/assets/sty1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "sarah_k",
+        "profilePicture": "https://i.pravatar.cc/150?img=5"
+      },
+      "image": "/src/assets/sty2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "rahul_it",
+        "profilePicture": "https://i.pravatar.cc/150?img=12"
+      },
+      "image": "/src/assets/sty3.jpg"
+    }
+  ],
+  "followers": []
+}
